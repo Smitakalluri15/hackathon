@@ -1,3 +1,3 @@
 # hackathon
-this is mu second hackathon 
+this is my second hackathon 
 author - smita santosh
